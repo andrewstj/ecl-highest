@@ -1,6 +1,5 @@
 const readline = require('readline');
 const fs = require('fs');
-const util = require('util');
 
 const args = process.argv.slice(2);
 const fileName = args[0];
